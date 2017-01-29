@@ -1,0 +1,16 @@
+.profile-pic {
+	max-width: 80%
+}
+h3 {
+	color: lightblue;
+}
+.card {
+	border: solid lightblue 2px;
+	border-radius: 4px;
+	padding: 5px;
+	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px lightblue;
+}
+.description{
+	background-image: url ();
+}
